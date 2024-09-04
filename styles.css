@@ -1,0 +1,9 @@
+header {
+    background-image: url('img/background.png'); /* Caminho para a imagem de fundo */
+    background-size: cover; /* Faz com que a imagem cubra todo o espaço do header */
+    background-position: center; /* Centraliza a imagem */
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
